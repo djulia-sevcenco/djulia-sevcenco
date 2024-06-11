@@ -23,7 +23,7 @@
 
 🎓 My Goals
 
-- Apply my skills and knowledge to the Physics of Data Master's program and subsequently pursue a PhD.
+- Apply my skills and knowledge to the Physics of Data Master's program.
 - Contribute to cutting-edge research and advancements in physics and data science.
 - Collaborate with other enthusiasts and professionals in the field.
 
